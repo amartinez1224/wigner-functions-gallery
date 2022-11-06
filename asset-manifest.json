@@ -1,15 +1,15 @@
 {
-  "main.css": "/wigner-functions-gallery/static/css/main.486f9113.chunk.css",
-  "main.js": "/wigner-functions-gallery/static/js/main.0d986c53.chunk.js",
-  "main.js.map": "/wigner-functions-gallery/static/js/main.0d986c53.chunk.js.map",
-  "static/js/1.bfa36157.chunk.js": "/wigner-functions-gallery/static/js/1.bfa36157.chunk.js",
-  "static/js/1.bfa36157.chunk.js.map": "/wigner-functions-gallery/static/js/1.bfa36157.chunk.js.map",
-  "static/js/2.7587d2c9.chunk.js": "/wigner-functions-gallery/static/js/2.7587d2c9.chunk.js",
-  "static/js/2.7587d2c9.chunk.js.map": "/wigner-functions-gallery/static/js/2.7587d2c9.chunk.js.map",
-  "runtime~main.js": "/wigner-functions-gallery/static/js/runtime~main.ac01c036.js",
-  "runtime~main.js.map": "/wigner-functions-gallery/static/js/runtime~main.ac01c036.js.map",
-  "static/css/main.486f9113.chunk.css.map": "/wigner-functions-gallery/static/css/main.486f9113.chunk.css.map",
-  "index.html": "/wigner-functions-gallery/index.html",
-  "precache-manifest.922d3d9604bfdba403870e24f4cd03a7.js": "/wigner-functions-gallery/precache-manifest.922d3d9604bfdba403870e24f4cd03a7.js",
-  "service-worker.js": "/wigner-functions-gallery/service-worker.js"
+  "files": {
+    "main.css": "/wigner-functions-gallery/static/css/main.87b3636e.css",
+    "main.js": "/wigner-functions-gallery/static/js/main.92a9bf03.js",
+    "static/js/787.2f259f74.chunk.js": "/wigner-functions-gallery/static/js/787.2f259f74.chunk.js",
+    "index.html": "/wigner-functions-gallery/index.html",
+    "main.87b3636e.css.map": "/wigner-functions-gallery/static/css/main.87b3636e.css.map",
+    "main.92a9bf03.js.map": "/wigner-functions-gallery/static/js/main.92a9bf03.js.map",
+    "787.2f259f74.chunk.js.map": "/wigner-functions-gallery/static/js/787.2f259f74.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.87b3636e.css",
+    "static/js/main.92a9bf03.js"
+  ]
 }
