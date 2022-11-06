@@ -1,0 +1,29 @@
+
+.Card {
+    background-color: #bdd5ea;
+    border-radius: 10px;
+    box-shadow: 0 0 5px #bdd5ea;
+    margin: 1rem;
+    padding: 1rem;
+    width: 450px;
+    overflow: hidden;
+}
+
+.Card:hover {
+    background-color: #bdd5ea;
+    box-shadow: 0 0 12px #bdd5ea;
+}
+
+.Description {
+    color: #495867;
+    margin-top: 2rem;
+}
+
+@media screen and (max-width: 550px) {
+    .Card {
+        width: 80vw;
+        margin-right: 0;
+        margin-left: 0;
+    }
+}
+    
