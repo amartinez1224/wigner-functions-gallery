@@ -19,6 +19,10 @@
     margin-top: 2rem;
 }
 
+.Title {
+    margin-bottom: 0;
+}
+
 @media screen and (max-width: 550px) {
     .Card {
         width: 80vw;
